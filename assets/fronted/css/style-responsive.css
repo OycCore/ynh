@@ -1,0 +1,27 @@
+
+.menu-toggle{ background:url(../images/menu_toggle.png) no-repeat 98% center; cursor:pointer; color:#fff; text-align:left; width:100%; text-transform:uppercase; padding:5px 0; display:none;}
+
+
+
+@media only screen and (min-width: 991px) and (max-width: 1195px) {
+
+
+
+}
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 990px) {
+
+
+}
+
+@media only screen and (max-width: 767px) {
+
+
+
+}
+
+
